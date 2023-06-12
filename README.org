@@ -1,0 +1,10 @@
+* filtered-functions
+
+Filtered functions provide an extension of CLOS generic function invocation that add a simple preprocessing step before the actual method dispatch is performed and thus enable the use of arbitrary predicates for selecting and applying methods.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pcostanza/filtered-functions.git   |
+| commit  | 130f69e  |
+| systems | filtered-functions |
+|---------+-------------------------------------------|
+
